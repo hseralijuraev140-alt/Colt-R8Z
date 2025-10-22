@@ -1,0 +1,73 @@
+.header-img {
+  width: 1920px;
+  height: 186px;
+  background-color: blue;
+  position: relative;
+  padding-left: 150px;
+  padding-top: 40px;
+}
+
+.header-text {
+  position: relative;
+  left: 210px;
+  bottom: 200px;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+}
+
+.second-header-img {
+  position: relative;
+  bottom: 235px;
+  left: 400px;
+}
+
+.paragraf {
+  width: 1800px;
+  height: 356px;
+  top: 356px;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  background-color: blue;
+  padding-left: 300px;
+}
+
+.DSB-img {
+  position: relative;
+  left: 400px;
+}
+
+.paragraf2 {
+  width: 2050px;
+  height: 250px;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  background-color: blue;
+  position: relative;
+}
+
+.container {
+  width: 600px;
+  height: 400px;
+  background-color: rgb(189, 187, 184);
+  position: relative;
+  top: 50px;
+  left: 600px;
+  border-radius: 32px;
+  padding-left: 110px;
+}
+
+.footer {
+  width: 1920px;
+  height: 300px;
+  background-color: blue;
+  position: relative;
+  top: 100px;
+  padding-left: 150px;
+  padding-top: 200px;
+}
+
+.web1, .web2, .web3 {
+  position: relative;
+  left: 200px;
+  bottom: 130px;
+}/*# sourceMappingURL=style.css.map */
